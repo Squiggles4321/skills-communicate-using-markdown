@@ -6,6 +6,13 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+
+Too Big!
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
+Smaller
 
 ## Review
 
